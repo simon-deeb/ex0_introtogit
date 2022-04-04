@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: lasagna
+Favorite musician/band: Pytor Illych Tchaikovsky
+Favorite movie: Interstellar
+Requested grade in the course: 420
